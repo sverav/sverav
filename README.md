@@ -18,7 +18,5 @@ Hello! I'm **Stephania Vera**, a detail-oriented Data Analyst with a strong foun
 
 Passionate about leveraging data to solve real-world problems. Currently exploring **machine learning** and advanced analytics!  
 
--📫 Let's connect!
-   [LinkedIn]: (https://www.linkedin.com/stverav)  
-   [Mail]: (stvera94@gmail.com) 
+-📫 Let's connect! [LinkedIn]: (https://www.linkedin.com/stverav)  |   [Mail]: (stvera94@gmail.com) 
 - 😄 Pronouns: she/her
